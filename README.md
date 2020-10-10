@@ -18,6 +18,3 @@ npm run build:stage
 
 # build for production environment
 npm run build:prod
-```
-lint -- --fix
-```
