@@ -78,7 +78,7 @@ let routerList = [
     meta: {
       title: "Report",
       icon: "component",
-      roles: []
+      roles: ['admin']
     },
     children: [
       {
